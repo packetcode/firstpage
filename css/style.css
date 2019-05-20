@@ -1,0 +1,32 @@
+ h1{ 
+                color:#0abde3;
+            }
+            
+            p#one{
+                color:#54a0ff;
+            }
+            p.two{
+                color:indigo;
+            }
+            #three{ color:red; }
+            body{
+                background: #f8f8f8;
+            }
+            .box{
+                width:500px;
+                background: white;
+                border: 1px solid #eee;
+                padding:30px;
+                margin:50px auto;
+                border-radius:5px;
+                
+            }
+            .profile{ 
+                width: 150px;
+                border-radius: 40px;
+            }
+            
+            table{ width:100%; border-collapse: collapse;}
+            table tr td,th{ border:1px solid silver;padding:5px; }
+            
+            hr{ border:0.5px solid silver;}
